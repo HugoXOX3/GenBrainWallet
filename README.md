@@ -1,0 +1,2 @@
+# GenBrainWallet
+Brain Wallet Generator
